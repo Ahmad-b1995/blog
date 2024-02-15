@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Ahmad-b1995/ahmadcodes.com.git
+	branch = main

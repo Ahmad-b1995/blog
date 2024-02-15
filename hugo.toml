@@ -1,0 +1,4 @@
+baseURL = 'https://ahmad-b1995.github.io/ahmadcodes.com/'
+theme="hugo-PaperMod"
+languageCode = 'en-us'
+title = 'My Development Blog'
