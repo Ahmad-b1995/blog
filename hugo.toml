@@ -1,4 +1,4 @@
-baseURL = 'https://ahmad-b1995.github.io/ahmadcodes.com/'
+baseURL = 'https://ahmad-b1995.github.io/'
 theme="hugo-PaperMod"
 languageCode = 'en-us'
 title = 'My Development Blog'
